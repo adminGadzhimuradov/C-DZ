@@ -1,0 +1,15 @@
+C:\Users\DEViCE_YIC\OneDrive\Рабочий стол\C#\NEW1\taskDZ1\bin\Debug\net6.0\taskDZ1.exe
+C:\Users\DEViCE_YIC\OneDrive\Рабочий стол\C#\NEW1\taskDZ1\bin\Debug\net6.0\taskDZ1.deps.json
+C:\Users\DEViCE_YIC\OneDrive\Рабочий стол\C#\NEW1\taskDZ1\bin\Debug\net6.0\taskDZ1.runtimeconfig.json
+C:\Users\DEViCE_YIC\OneDrive\Рабочий стол\C#\NEW1\taskDZ1\bin\Debug\net6.0\taskDZ1.dll
+C:\Users\DEViCE_YIC\OneDrive\Рабочий стол\C#\NEW1\taskDZ1\bin\Debug\net6.0\taskDZ1.pdb
+C:\Users\DEViCE_YIC\OneDrive\Рабочий стол\C#\NEW1\taskDZ1\obj\Debug\net6.0\taskDZ1.csproj.AssemblyReference.cache
+C:\Users\DEViCE_YIC\OneDrive\Рабочий стол\C#\NEW1\taskDZ1\obj\Debug\net6.0\taskDZ1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DEViCE_YIC\OneDrive\Рабочий стол\C#\NEW1\taskDZ1\obj\Debug\net6.0\taskDZ1.AssemblyInfoInputs.cache
+C:\Users\DEViCE_YIC\OneDrive\Рабочий стол\C#\NEW1\taskDZ1\obj\Debug\net6.0\taskDZ1.AssemblyInfo.cs
+C:\Users\DEViCE_YIC\OneDrive\Рабочий стол\C#\NEW1\taskDZ1\obj\Debug\net6.0\taskDZ1.csproj.CoreCompileInputs.cache
+C:\Users\DEViCE_YIC\OneDrive\Рабочий стол\C#\NEW1\taskDZ1\obj\Debug\net6.0\taskDZ1.dll
+C:\Users\DEViCE_YIC\OneDrive\Рабочий стол\C#\NEW1\taskDZ1\obj\Debug\net6.0\refint\taskDZ1.dll
+C:\Users\DEViCE_YIC\OneDrive\Рабочий стол\C#\NEW1\taskDZ1\obj\Debug\net6.0\taskDZ1.pdb
+C:\Users\DEViCE_YIC\OneDrive\Рабочий стол\C#\NEW1\taskDZ1\obj\Debug\net6.0\taskDZ1.genruntimeconfig.cache
+C:\Users\DEViCE_YIC\OneDrive\Рабочий стол\C#\NEW1\taskDZ1\obj\Debug\net6.0\ref\taskDZ1.dll
